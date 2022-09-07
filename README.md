@@ -1,5 +1,8 @@
 # codenation-project
-a simple basic text based python game based on coronavirus zombies enjoy 
+
+our team project we have coded for the python coding challenge 
+
+a simple basic text based python game based on coronavirus zombies
 
 fun based on current covid 19 situations apt for the current world crisis
 
@@ -13,3 +16,6 @@ weapons					food
 crowbar					broom
 leave					take
 pub					shop
+
+
+hope you enjoy this simple piece of code
